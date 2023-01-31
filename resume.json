@@ -30,7 +30,8 @@
 	}, {
 		"edu_time": ["2013.09", "2016.06"],
 		"school": "成都信息工程大学",
-		"major": "计算机科学与技术"
+		"major": "计算机科学与技术",
+		"dataIndex": 1
 	}],
 	"awardList": [{
 		"award_info": "英语 CET6",
@@ -68,53 +69,53 @@
 		"skill_name": "Dynamo",
 		"skill_desc": "参数化建模",
 		"skill_level": 80,
-		"dataIndex": 1
+		"dataIndex": 2
 	}, {
 		"skill_name": "Grasshopper",
 		"skill_desc": "参数化建模",
 		"skill_level": 80,
-		"dataIndex": 0
+		"dataIndex": 2
 	}],
 	"projectList": [{
 		"project_time": "2022.05 至今",
 		"project_name": "问界系列",
 		"project_role": "数字模型师",
-		"project_desc": "",
+		//"project_desc": "",
 		"project_content": "参与问界M5和M7改款以及F1，F3项目内外饰A面建模工作",
 		"dataIndex": 0
 	}, {
 		"project_name": "均胜内饰体验舱",
 		"project_role": "项目管理",
 		"project_time": "2021.11 ~ 2022.02",
-		"project_desc": "",
+		//"project_desc": "",
 		"project_content": "制定项目计划，对接座舱需求，现场与客户做技术沟通，控制设计效果图和CAS数据的交付质量，监督模型工作。",
 		"dataIndex": 4
 	}, {
 		"project_time": "2021.05 ~ 2021.09",
 		"project_name": "上海智己展车",
 		"project_role": "项目管理",
-		"project_desc": "",
+		//"project_desc": "",
 		"project_content": "制定项目计划，管控项目执行过程，并承担与日籍设计师和田智合作期间的翻译工作，完成CAS数据交付并保证模型制作的数据支持。",
 		"dataIndex": 5
 	}, {
 		"project_time": "2020.05 ~ 2021.08",
 		"project_name": "阿维塔E11",
 		"project_role": "项目管理",
-		"project_desc": "",
+		//"project_desc": "",
 		"project_content": "负责整车内外饰数据建模工作，协调德国造型部门，数字技术人员及工程部门的三方专业衔接与沟通，控制项目预算并协调与客户简的商务事项，并参与部分数字建模工作。",
 		"dataIndex": 1
 	}, {
 		"project_time": "2017.09 ~ 2020.05",
 		"project_name": "金杯汽车",
 		"project_role": "数字模型师",
-		"project_desc": "",
+		//"project_desc": "",
 		"project_content": "参与金杯T3、T2等改款车型的数字建模工作",
 		"dataIndex": 2
 	}, {
 		"project_time": "2017.09 ~ 2020.05",
 		"project_name": "斯威汽车",
 		"project_role": "数字模型师",
-		"project_desc": "",
+		//"project_desc": "",
 		"project_content": "参与斯威G01、G05和改款车型的数字建模工作，参与529、S301等内部项目的数字化工作",
 		"dataIndex": 3
 	}],
