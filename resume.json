@@ -45,7 +45,7 @@
 		"work_time": ["2022.05"],
 		"company_name": "重庆金康动力新能源有限公司",
 		"department_name": "三维数字设计部",
-		"work_desc": "数字模型师"
+		"work_desc": "作为数字模型师参与项目内外饰建模以及参数化建模"
 	}, {
 		"company_name": "上海梵思汽车技术服务有限公司",
 		"department_name": "项目管理",
@@ -67,7 +67,7 @@
 	}, {
 		"skill_name": "Dynamo",
 		"skill_desc": "参数化建模",
-		"skill_level": 60,
+		"skill_level": 80,
 		"dataIndex": 1
 	}, {
 		"skill_name": "Grasshopper",
@@ -77,7 +77,7 @@
 	}],
 	"projectList": [{
 		"project_time": "2022.5-至今",
-		"project_name": "华为问界",
+		"project_name": "问界系列",
 		"project_role": "数字模型师",
 		"project_desc": "",
 		"project_content": "参与问界M5和M7改款以及F1，F3项目内外饰CAS和A面建模工作",
@@ -104,14 +104,14 @@
 		"project_content": "负责整车内外饰数据建模工作，协调德国造型部门，数字技术人员及工程部门的三方专业衔接与沟通，控制项目预算并协调与客户简的商务事项，并参与部分数字建模工作。",
 		"dataIndex": 1
 	}, {
-		"project_time": "2017.2020.4",
+		"project_time": "2017.09-2020.5",
 		"project_name": "金杯汽车",
 		"project_role": "数字模型师",
 		"project_desc": "",
 		"project_content": "参与金杯T3、T2等改款车型的数字建模工作",
 		"dataIndex": 2
 	}, {
-		"project_time": "2017.09-2020.04",
+		"project_time": "2017.09-2020.05",
 		"project_name": "斯威汽车",
 		"project_role": "数字模型师",
 		"project_desc": "",
