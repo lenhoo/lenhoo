@@ -9,8 +9,8 @@
 		"aboutme": "自我介绍"
 	},
 	"avatar": {
-		"src": "https://avatars.githubusercontent.com/u/15646325?v=4",
-		"hidden": true
+		"src": "http://alist.lenosy.com:5008/d/NAS/Share/pix/avatar.PNG",
+		"hidden": false
 	},
 	"profile": {
 		"name": "胡晓龙",
